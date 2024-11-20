@@ -1,4 +1,4 @@
-const calculateSum = require("./sum");
+import { calculateSum } from "./sum.js";
 
 var a = 10;
 
